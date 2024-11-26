@@ -1,0 +1,29 @@
+
+### `.gitignore`
+
+```gitignore
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Nodemon
+nodemon.json
+
+# OS generated files
+.DS_Store
+
+# npm packages
+package-lock.json
+
+# Build and coverage directories
+dist/
+coverage/
+
+# IDE-specific files
+.vscode/
+.idea/
