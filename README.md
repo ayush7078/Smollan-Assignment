@@ -36,10 +36,9 @@ Fetch the sales data. Example response:
 ]
 
 # Running in Production
-To run the app in production, use:
-
+- To run the app in production, use:
 npm start
 This will run the server without nodemon for production.
 
-License
+# License
 MIT License. See the LICENSE file for details.
